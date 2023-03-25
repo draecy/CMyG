@@ -1,5 +1,5 @@
 {
-  "name": "Haruka-Md",
+  "name": "ChickenMyGangs",
   "version": "9.0.1",
   "description": "whatsapp tob with multi device.",
   "main": "haruka.js",
@@ -12,10 +12,10 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2022",
+    "2023",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "CMyG",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "^4.4.0",
